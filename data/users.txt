@@ -1,0 +1,3 @@
+aila, roshiele, 0, 0
+roshiele, ailaroshiele, 0, 0
+arcd, arcddcra, 0, 0
