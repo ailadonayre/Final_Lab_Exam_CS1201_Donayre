@@ -1,5 +1,4 @@
 import os
-from datetime import datetime
 
 class Score:
     def __init__(self):
