@@ -1,5 +1,4 @@
 import random
-import os
 from utils.user_manager import *
 from utils.score import *
 from datetime import datetime
